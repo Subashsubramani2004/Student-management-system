@@ -35,4 +35,4 @@ A full-stack **Student Management System** built using the **MERN Stack**. This 
 - Mongoose
 
 ---
-rget to **Star** the repository.
+
